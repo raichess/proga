@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<labWorks>
+  <LabWork>
+    <id>2</id>
+    <name>lab1</name>
+    <coordinates>
+      <x>10</x>
+      <y>20.0</y>
+    </coordinates>
+    <creationDate>2025-03-12 14:34:03.766 MSK</creationDate>
+    <minimalPoint>15</minimalPoint>
+    <description>bla bla bla </description>
+    <difficulty>EASY</difficulty>
+    <author>
+      <name>John</name>
+      <birthday>2006-09-12</birthday>
+      <height>140.0</height>
+      <nationality>CHINA</nationality>
+    </author>
+  </LabWork>
+  <LabWork>
+    <id>2</id>
+    <name>inf</name>
+    <coordinates>
+      <x>11</x>
+      <y>22.0</y>
+    </coordinates>
+    <creationDate>2025-03-12 17:45:45.264 MSK</creationDate>
+    <minimalPoint>101</minimalPoint>
+    <description>easyeasy</description>
+    <difficulty>EASY</difficulty>
+    <author>
+      <name>name</name>
+      <birthday>2006-01-12</birthday>
+      <height>170.0</height>
+      <nationality>CHINA</nationality>
+    </author>
+  </LabWork>
+</labWorks>

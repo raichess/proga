@@ -1,0 +1,11 @@
+execute_script script.txt
+add
+inf
+30
+20.0
+15
+la-la-la
+INSANE
+John Doe,1990-05-15,180.5,INDIA
+info
+show
